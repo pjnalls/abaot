@@ -10,29 +10,29 @@
 
 <h2 align="center">
 
-**_/lɪˈdʒɪt/_**:
+**_/lɪˈdʒɪt/ ("legit")_**:
 
-_a barebones, fullstack-TypeScript app with JIT SSR<br/> (Just-in-time,
-server-side rendering)_
+_How to generate a barebones, fullstack-TypeScript app with JIT SSR<br/> (Just-in-time,
+server-side rendering)<br/>
+and no Node.js modules_
 <br/>
 
-Public Template<br/> via
-[Deno ("dee-no")](https://deno.land/manual@v1.36.1/introduction) 🦕
+via [Deno](https://deno.land/manual@v1.36.1/introduction) 🦕
 
 <br/>
 
 </h2>
 
-## 1. Install Deno.
+## 1. Install Deno
 
 Please refer to
 [Deno's installation documentation](https://deno.land/manual@v1.36.1/getting_started/installation)
 to install the latest version based upon your environment.
 
-## 2. Install extension for Deno if using Visual Studio Code. 
+## 2. Install the Deno extension for your editor or IDE
 
 Please refer to
-[Deno's `vscode_deno` installation documentation](https://deno.land/manual@v1.36.1/references/vscode_deno)
+[Deno's extension installation documentation](https://deno.land/manual@v1.36.1/references/vscode_deno)
 for more information.
 
 ## 3. `deno run` a [Fresh](https://fresh.deno.dev/) installation.
